@@ -26,4 +26,4 @@ Output:
 ![alt text](image-2.png)
 
 
-Explanation: a@b.com is repeated two times.
+Explanation: ``a@b.com`` is repeated two times.
