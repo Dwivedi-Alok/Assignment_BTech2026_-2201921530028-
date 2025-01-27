@@ -1,5 +1,7 @@
 **Table: Person**
+
 ![alt text](image.png)
+
 id is the primary key (column with unique values) for this table.
 Each row of this table contains an email. The emails will not contain uppercase letters.
  
@@ -16,7 +18,12 @@ The result format is in the following example.
 
 Input: 
 Person table:
+
 ![alt text](image-1.png)
+
 Output: 
+
 ![alt text](image-2.png)
+
+
 Explanation: a@b.com is repeated two times.
